@@ -1,0 +1,48 @@
+{
+  "utc_offset":-21600000,
+  "venue":{
+    "country":"us",
+    "city":"Berthoud",
+    "address_1":"1518 Glacier Ave",
+    "name":"Jeff and Kims",
+    "lon":-105.100739,
+    "state":"CO",
+    "lat":40.30777
+  },
+  "rsvp_limit":0,
+  "venue_visibility":"public",
+  "visibility":"public",
+  "maybe_rsvp_count":0,
+  "description":"<p>Join us to watch the the first mountain stage of this years' Tour De France!  With Froome out, the GC be gunning for the Yellow Jersey and this stage is sure to test even the best cyclists, early in the race. <\/p> <p>Kim and I would love to welcome our P2P family into our home to celebrate cycling, friendships, community and the 2019 Tour De France, we hope that you can join us! All P2P members are welcome and encouraged to join us...come make a new friend or say hi to an olde' one!<\/p> <p>We will eat and start the tour at 6, but feel free to come by anytime.  I know it will be difficult for some to attend on a Thursday night, but not if you think of it as another Friday...bonus for you! ;-)<\/p> ",
+  "mtime":1560641457507,
+  "event_url":"https:\/\/www.meetup.com\/peaktopeakcycling\/events\/262350597\/",
+  "yes_rsvp_count":0,
+  "duration":7200000,
+  "payment_required":"0",
+  "name":"5th Annual Tour De France Party!",
+  "id":"262350597",
+  "time":1562887800000,
+  "group":{
+    "join_mode":"approval",
+    "country":"us",
+    "city":"Berthoud",
+    "name":"Peak to Peak Cycling",
+    "group_lon":-105.12,
+    "id":9633432,
+    "state":"CO",
+    "urlname":"peaktopeakcycling",
+    "category":{
+      "name":"outdoors\/adventure",
+      "id":23,
+      "shortname":"outdoors-adventure"
+    },
+    "group_photo":{
+      "highres_link":"https:\/\/secure.meetupstatic.com\/photos\/event\/b\/d\/b\/1\/highres_468528561.jpeg",
+      "photo_link":"https:\/\/secure.meetupstatic.com\/photos\/event\/b\/d\/b\/1\/600_468528561.jpeg",
+      "photo_id":468528561,
+      "thumb_link":"https:\/\/secure.meetupstatic.com\/photos\/event\/b\/d\/b\/1\/thumb_468528561.jpeg"
+    },
+    "group_lat":40.29
+  },
+  "status":"upcoming"
+}
